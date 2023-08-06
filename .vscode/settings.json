@@ -1,6 +1,6 @@
 {
     "workbench.view.alwaysShowHeaderActions": true,
-    "workbench.tree.renderIndentGuides": false,
+    "workbench.tree.renderIndentGuides": "none",
     "[pvs]": {
         "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}|;:'\",.<>/"
     },
